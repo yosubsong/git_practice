@@ -2,6 +2,6 @@
 
 int main(void)
 {	
-	printf("Would you marry me Junhwan?\n");
+	printf("Would you marry me Eunji?\n");
 	return 0;
 }
